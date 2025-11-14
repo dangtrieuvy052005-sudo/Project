@@ -1,0 +1,32 @@
+[
+  {
+    "id": "SV001",
+    "name": "Nguyen Van A",
+    "class": "K20.CLCA",
+    "major": "Cong Nghe Thong Tin"
+  },
+  {
+    "id": "SV002",
+    "name": "Tran Thi B",
+    "class": "K21.CLCB",
+    "major": "Khoa Hoc Du Lieu"
+  },
+  {
+    "id": "SV003",
+    "name": "Le Van C",
+    "class": "K20.CNPM",
+    "major": "Ky Thuat Phan Mem"
+  },
+  {
+    "id": "SV004",
+    "name": "Pham Hong D",
+    "class": "K22.ATTT",
+    "major": "An Toan Thong Tin"
+  },
+  {
+    "id": "SV005",
+    "name": "Do Tuan E",
+    "class": "K21.HTTT",
+    "major": "He Thong Thong Tin"
+  }
+]
